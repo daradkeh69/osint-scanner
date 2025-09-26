@@ -65,6 +65,12 @@ HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY" <br>
 HIBP_API_KEY     = "YOUR_HIBP_API_KEY" <br>
 DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY" <br>
 
+Shodan: (https://developer.shodan.io/api)
+WHOISXML: API Docs
+Hunter.io: API Docs
+HaveIBeenPwned: API Docs
+Dehashed: API Docs
+
 ---
 
 ### 📖 Usage
