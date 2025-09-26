@@ -1,2 +1,135 @@
-# osint-scanner
-Demo version of an older OSINT scanner I built modular Python tool for person, company, and keyword reconnaissance with HTML reporting
+# 🕵️‍♂️ OSINT Scanner 
+
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Issues](https://img.shields.io/github/issues/<your-username>/<your-repo>)
+![Stars](https://img.shields.io/github/stars/<your-username>/<your-repo>?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>)
+
+**Advanced OSINT Intelligence Suite** – a modular, extensible Python framework for Open Source Intelligence (OSINT) investigations.  
+
+Supports **person**, **company**, and **keyword** reconnaissance with beautiful HTML reporting, API integrations, and optional third-party tool support.  
+
+![Report Example](https://user-images.githubusercontent.com/your-username/sample-report.png)
+
+---
+
+## ✨ Features
+
+### 👤 Person Search
+- Username checks via **Sherlock**, **Social Analyzer**, **WhatsMyName**, **Namechk**, **KnowEm**, and more  
+- Email & domain reconnaissance (placeholders for **theHarvester**, **HIBP**, **Dehashed**)  
+- Pastebin and breach lookups  
+- Generates modern, interactive HTML reports  
+
+### 🏢 Company / Organization Scan
+- Integrates with **Shodan**, **WHOISXML**, and **Hunter.io** APIs  
+- (Planned) **theHarvester** integration  
+- Automated HTML reporting  
+
+### 🔎 Passive Keyword Tracking *(Coming Soon)*
+- RSS monitoring & alerting  
+- Lightweight HTML tracking dashboards  
+
+### ⚙️ Utilities
+- **Tor / Proxy support** for anonymity  
+- **Colorful CLI output**  
+- **Timestamped reports** in neatly organized folders  
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>/vulscanner
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Install recommended external tools:
+	•	Sherlock
+	•	Social Analyzer
+	•	WhatsMyName
+	•	theHarvester
+
+⸻
+
+🔑 API Setup
+
+Edit osint_scanner.py and replace placeholders with your API keys:
+
+SHODAN_API_KEY   = "YOUR_SHODAN_API_KEY"
+WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY"
+HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY"
+HIBP_API_KEY     = "YOUR_HIBP_API_KEY"
+DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY"
+
+
+⸻
+
+📖 Usage
+
+Run the tool:
+
+python osint_scanner.py
+
+You’ll see:
+
+Advanced OSINT Intelligence Suite
+1. Person Search
+2. Company/Organization Scan
+3. Passive Keyword Tracker
+4. Exit
+
+Examples:
+	•	Person Search: enter a username, email, or domain
+	•	Company Scan: enter a domain (e.g., example.com)
+	•	Keyword Tracker: enter a keyword/subject
+
+Reports are saved automatically in timestamped folders, e.g.:
+
+person_reports/20250926_153000/person_report.html
+
+
+⸻
+
+🧩 Extending & Customizing
+	•	Add new modules/API integrations by following the structure in osint_scanner.py.
+	•	Extend the save_report function to support new output formats (PDF, Markdown, etc).
+	•	Wrap the CLI for batch automation or import functions into your own projects.
+
+⸻
+
+📦 Requirements
+	•	Python 3.7+
+	•	See requirements.txt for dependencies
+	•	External tools (optional but recommended)
+
+⸻
+
+⚠️ Disclaimer
+
+This project is for educational and authorized security research only.
+Do not use it against systems/accounts you do not own or have explicit permission to test.
+
+⸻
+
+🤝 Contributing
+
+Pull requests, feature suggestions, and bug reports are welcome!
+Open an issue to discuss improvements before submitting a PR.
+
+⸻
+
+📜 License
+
+MIT License
+
+⸻
+
+👨‍💻 Author: Your Name
+
+Would you like me to also **add shields.io badges** (Python version, license, stars, issues, etc.) at the top to make it look even more professional?
