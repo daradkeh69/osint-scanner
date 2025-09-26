@@ -47,7 +47,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Install recommended external tools: <br>
+Install recommended external tools: <br> <br>
 	•	Sherlock <br>
 	•	Social Analyzer <br>
 	•	WhatsMyName <br>
@@ -74,18 +74,18 @@ Run the tool:
 ```bash
 python osint_scanner.py
 ```
+
 You’ll see:
 
-Advanced OSINT Intelligence Suite
 1. Person Search
 2. Company/Organization Scan
 3. Passive Keyword Tracker
 4. Exit
 
-Examples:
-	•	Person Search: enter a username, email, or domain
-	•	Company Scan: enter a domain (e.g., example.com)
-	•	Keyword Tracker: enter a keyword/subject
+Examples: <br>
+	•	Person Search: enter a username, email, or domain <br>
+	•	Company Scan: enter a domain (e.g., example.com) <br>
+	•	Keyword Tracker: enter a keyword/subject <br>
 
 Reports are saved automatically in timestamped folders, e.g.:
 
@@ -101,9 +101,9 @@ person_reports/<date>_<id>/person_report.html
 
 ---
 
-📦 Requirements
-	•	Python 3.7+
-	•	See requirements.txt for dependencies
+📦 Requirements <br>
+	•	Python 3.7+ <br>
+	•	See requirements.txt for dependencies <br>
 	•	External tools (optional but recommended)
 
 ---
