@@ -7,8 +7,6 @@
 
 **Modular Python OSINT framework for person, company, and keyword reconnaissance with HTML reporting and API integrations.**
 
-![Test running the tool](test.png)
-
 ---
 
 ## ✨ Features
@@ -35,6 +33,9 @@
 
 ---
 
+![Test running the tool](test.png)
+
+---
 ## 🚀 Installation
 
 Clone the repository:
