@@ -53,7 +53,7 @@ Install recommended external tools:
 	•	WhatsMyName
 	•	theHarvester
 
-⸻
+---
 
 🔑 API Setup
 
@@ -65,8 +65,7 @@ HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY"
 HIBP_API_KEY     = "YOUR_HIBP_API_KEY"
 DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY"
 
-
-⸻
+---
 
 📖 Usage
 
@@ -92,41 +91,41 @@ Reports are saved automatically in timestamped folders, e.g.:
 person_reports/20250926_153000/person_report.html
 
 
-⸻
+---
 
 🧩 Extending & Customizing
 	•	Add new modules/API integrations by following the structure in osint_scanner.py.
 	•	Extend the save_report function to support new output formats (PDF, Markdown, etc).
 	•	Wrap the CLI for batch automation or import functions into your own projects.
 
-⸻
+---
 
 📦 Requirements
 	•	Python 3.7+
 	•	See requirements.txt for dependencies
 	•	External tools (optional but recommended)
 
-⸻
+---
 
 ⚠️ Disclaimer
 
 This project is for educational and authorized security research only.
 Do not use it against systems/accounts you do not own or have explicit permission to test.
 
-⸻
+---
 
 🤝 Contributing
 
 Pull requests, feature suggestions, and bug reports are welcome!
 Open an issue to discuss improvements before submitting a PR.
 
-⸻
+---
 
 📜 License
 
 MIT License
 
-⸻
+---
 
 👨‍💻 Author: Your Name
 
