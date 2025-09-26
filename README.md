@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
 ![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
 
 **Advanced OSINT Intelligence Suite** – a modular, extensible Python framework for Open Source Intelligence (OSINT) investigations.  
@@ -127,6 +128,5 @@ MIT License
 
 ---
 
-👨‍💻 Author: Your Name
-
-Would you like me to also **add shields.io badges** (Python version, license, stars, issues, etc.) at the top to make it look even more professional?
+👨‍💻 Author: daradkeh69
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
