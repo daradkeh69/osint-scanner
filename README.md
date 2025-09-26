@@ -41,8 +41,8 @@ Supports **person**, **company**, and **keyword** reconnaissance with beautiful 
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>/vulscanner
+git clone https://github.com/daradkeh69/osint-scanner.git
+cd osint-scanner
 ```
 Install dependencies:
 
