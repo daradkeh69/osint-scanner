@@ -59,11 +59,13 @@ Install recommended external tools: <br> <br>
 
 Edit osint_scanner.py and replace placeholders with your API keys:
 
-SHODAN_API_KEY   = "YOUR_SHODAN_API_KEY" <br>
-WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY" <br>
-HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY" <br>
-HIBP_API_KEY     = "YOUR_HIBP_API_KEY" <br>
-DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY" <br>
+```bash
+SHODAN_API_KEY   = "YOUR_SHODAN_API_KEY" 
+WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY" 
+HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY" 
+HIBP_API_KEY     = "YOUR_HIBP_API_KEY" 
+DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY"
+```
 
 Shodan: (https://developer.shodan.io/api) <br>
 WHOISXML: (https://whois.whoisxmlapi.com/api/documentation) <br>
