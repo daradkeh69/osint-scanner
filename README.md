@@ -97,8 +97,9 @@ Examples:<br> <br>
 
 Reports are saved automatically in timestamped folders, e.g.:
 
+```bash
 person_reports/<date>_<id>/person_report.html
-
+```
 
 ---
 
