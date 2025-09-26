@@ -137,4 +137,4 @@ MIT License
 
 ## 👨‍💻 Author: daradkeh69
 
-[GitHub](https://github.com/daradkeh69) • [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh) • [GitHub](https://github.com/daradkeh69) 
