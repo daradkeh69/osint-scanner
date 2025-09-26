@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
 ![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
 
 **Modular Python OSINT framework for person, company, and keyword reconnaissance with HTML reporting and API integrations.**
 
