@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
 
-**Modular Python OSINT framework for person, company, and keyword reconnaissance with HTML reporting and API integrations.**
+Modular Python OSINT framework for **person, company, and keyword reconnaissance** with HTML reporting and API integrations.
 
 ---
 
