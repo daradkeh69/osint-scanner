@@ -55,7 +55,7 @@ Install recommended external tools: <br> <br>
 
 ---
 
-🔑 API Setup
+## 🔑 API Setup
 
 Edit osint_scanner.py and replace placeholders with your API keys:
 
@@ -67,7 +67,7 @@ DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY" <br>
 
 ---
 
-📖 Usage
+## 📖 Usage
 
 Run the tool:
 
@@ -94,39 +94,39 @@ person_reports/<date>_<id>/person_report.html
 
 ---
 
-🧩 Extending & Customizing
+## 🧩 Extending & Customizing <br>
 	•	Add new modules/API integrations by following the structure in osint_scanner.py.
 	•	Extend the save_report function to support new output formats (PDF, Markdown, etc).
 	•	Wrap the CLI for batch automation or import functions into your own projects.
 
 ---
 
-📦 Requirements <br>
+## 📦 Requirements <br>
 	•	Python 3.7+ <br>
 	•	See requirements.txt for dependencies <br>
 	•	External tools (optional but recommended)
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is for educational and authorized security research only.
 Do not use it against systems/accounts you do not own or have explicit permission to test.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests, feature suggestions, and bug reports are welcome!
 Open an issue to discuss improvements before submitting a PR.
 
 ---
 
-📜 License
+## 📜 License
 
 MIT License
 
 ---
 
-👨‍💻 Author: daradkeh69
+## 👨‍💻 Author: daradkeh69
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
