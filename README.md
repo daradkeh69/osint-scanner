@@ -108,8 +108,8 @@ person_reports/<date>_<id>/person_report.html
 ---
 
 ### 📦 Requirements <br>
-	•	Python 3.7+ <br>
-	•	See requirements.txt for dependencies <br>
+	•	Python 3.7+
+	•	See requirements.txt for dependencies
 	•	External tools (optional but recommended)
 
 ---
