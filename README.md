@@ -116,15 +116,13 @@ person_reports/<date>_<id>/person_report.html
 
 ### ⚠️ Disclaimer
 
-This project is for educational and authorized security research only.
-Do not use it against systems/accounts you do not own or have explicit permission to test.
-
----
-
-### 🤝 Contributing
-
-Pull requests, feature suggestions, and bug reports are welcome!
-Open an issue to discuss improvements before submitting a PR.
+> **This tool is for educational and authorized security testing only.**
+>
+> - **Do NOT scan targets without explicit permission.**
+> - **You may NOT copy, redistribute, or claim credit for this code.**
+> - Commercial use, code reuse, or derivative works are strictly prohibited.
+>
+> _If you find this useful, please star the repo and give credit!_
 
 ---
 
