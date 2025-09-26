@@ -82,7 +82,7 @@ You’ll see:
 3. Passive Keyword Tracker
 4. Exit
 
-Examples: <br>
+Examples:<br> <br>
 	•	Person Search: enter a username, email, or domain <br>
 	•	Company Scan: enter a domain (e.g., example.com) <br>
 	•	Keyword Tracker: enter a keyword/subject <br>
