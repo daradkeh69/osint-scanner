@@ -49,10 +49,10 @@ pip install -r requirements.txt
 ```
 Install recommended external tools:
 
-	•	Sherlock <br>
-	•	Social Analyzer <br>
-	•	WhatsMyName <br>
-	•	theHarvester <br>
+•	Sherlock <br>
+•	Social Analyzer <br>
+•	WhatsMyName <br>
+•	theHarvester <br>
 
 ---
 
