@@ -5,9 +5,7 @@
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh)
 ![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
 
-**Advanced OSINT Intelligence Suite** – a modular, extensible Python framework for Open Source Intelligence (OSINT) investigations.  
-
-Supports **person**, **company**, and **keyword** reconnaissance with beautiful HTML reporting, API integrations, and optional third-party tool support.  
+**Modular Python OSINT framework for person, company, and keyword reconnaissance with HTML reporting and API integrations.**
 
 ![Test running the tool](test.png)
 
@@ -45,14 +43,14 @@ git clone https://github.com/daradkeh69/osint-scanner.git
 cd osint-scanner
 ```
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 Install recommended external tools:
-	•	Sherlock
-	•	Social Analyzer
-	•	WhatsMyName
-	•	theHarvester
+	•	Sherlock <br>
+	•	Social Analyzer <br>
+	•	WhatsMyName <br>
+	•	theHarvester <br>
 
 ---
 
