@@ -32,7 +32,7 @@
 - **Timestamped reports** in neatly organized folders  
 
 ---
-
+## Test on myself
 ![Test running the tool](test.png)
 
 ---
@@ -47,7 +47,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Install recommended external tools:
+Install recommended external tools: <br>
 	•	Sherlock <br>
 	•	Social Analyzer <br>
 	•	WhatsMyName <br>
@@ -59,11 +59,11 @@ Install recommended external tools:
 
 Edit osint_scanner.py and replace placeholders with your API keys:
 
-SHODAN_API_KEY   = "YOUR_SHODAN_API_KEY"
-WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY"
-HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY"
-HIBP_API_KEY     = "YOUR_HIBP_API_KEY"
-DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY"
+SHODAN_API_KEY   = "YOUR_SHODAN_API_KEY" <br>
+WHOISXML_API_KEY = "YOUR_WHOISXML_API_KEY" <br>
+HUNTER_API_KEY   = "YOUR_HUNTER_API_KEY" <br>
+HIBP_API_KEY     = "YOUR_HIBP_API_KEY" <br>
+DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY" <br>
 
 ---
 
@@ -71,8 +71,9 @@ DEHASHED_API_KEY = "YOUR_DEHASHED_API_KEY"
 
 Run the tool:
 
+```bash
 python osint_scanner.py
-
+```
 You’ll see:
 
 Advanced OSINT Intelligence Suite
@@ -88,7 +89,7 @@ Examples:
 
 Reports are saved automatically in timestamped folders, e.g.:
 
-person_reports/20250926_153000/person_report.html
+person_reports/<date>_<id>/person_report.html
 
 
 ---
