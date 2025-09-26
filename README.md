@@ -2,9 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Issues](https://img.shields.io/github/issues/<your-username>/<your-repo>)
-![Stars](https://img.shields.io/github/stars/<your-username>/<your-repo>?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>)
+![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
 
 **Advanced OSINT Intelligence Suite** – a modular, extensible Python framework for Open Source Intelligence (OSINT) investigations.  
 
