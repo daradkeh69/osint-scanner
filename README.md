@@ -47,7 +47,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Install recommended external tools: <br> <br>
+Install recommended external tools: <br>
 	•	Sherlock <br>
 	•	Social Analyzer <br>
 	•	WhatsMyName <br>
