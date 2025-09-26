@@ -8,7 +8,7 @@
 
 Supports **person**, **company**, and **keyword** reconnaissance with beautiful HTML reporting, API integrations, and optional third-party tool support.  
 
-![Report Example](https://user-images.githubusercontent.com/your-username/sample-report.png)
+![Test running the tool](test.png)
 
 ---
 
