@@ -1,4 +1,4 @@
-<h1 align="center"># 🕵️‍♂️ OSINT Scanner</h1>
+<h1 align="center">🕵️‍♂️ OSINT Scanner</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python">
