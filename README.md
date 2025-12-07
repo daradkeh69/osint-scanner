@@ -1,8 +1,10 @@
-# 🕵️‍♂️ OSINT Scanner 
+<h1 align="center"># 🕵️‍♂️ OSINT Scanner</h1>
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/osint-scanner)
+<p align="center">
+<img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+<img src="https://img.shields.io/github/last-commit/daradkeh69/osint-scanner" alt="Last Commit">
+</p>
 
 Modular Python OSINT framework for **person, company, and keyword reconnaissance** with HTML reporting and API integrations.
 
@@ -135,6 +137,7 @@ MIT License
 
 ---
 
-## 👨‍💻 Author: daradkeh69
-
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh) • [GitHub](https://github.com/daradkeh69) 
+### Socials
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/daradkehh)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:adampentest@outlook.com)&nbsp;&nbsp;&nbsp;
+[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/char0n0)
