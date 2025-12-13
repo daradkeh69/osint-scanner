@@ -10,7 +10,7 @@ Modular Python OSINT framework for **person, company, and keyword reconnaissance
 
 ---
 
-## ✨ Features
+## Features
 
 ### 👤 Person Search
 - Username checks via **Sherlock**, **Social Analyzer**, **WhatsMyName**, **Namechk**, **KnowEm**, and more  
@@ -37,7 +37,7 @@ Modular Python OSINT framework for **person, company, and keyword reconnaissance
 ![Test running the tool](test.png)
 
 ---
-### 🚀 Installation
+### Installation
 
 Clone the repository:
 ```bash
@@ -57,7 +57,7 @@ Install recommended external tools:
 
 ---
 
-### 🔑 API Setup
+### API Setup
 
 Edit osint_scanner.py and replace placeholders with your API keys:
 
@@ -77,7 +77,7 @@ Dehashed: (https://www.dehashed.com/docs/api)
 
 ---
 
-### 📖 Usage
+### Usage
 
 Run the tool:
 
@@ -105,21 +105,21 @@ person_reports/<date>_<id>/person_report.html
 
 ---
 
-### 🧩 Extending & Customizing <br>
+### Extending & Customizing <br>
 	•	Add new modules/API integrations by following the structure in osint_scanner.py.
 	•	Extend the save_report function to support new output formats (PDF, Markdown, etc).
 	•	Wrap the CLI for batch automation or import functions into your own projects.
 
 ---
 
-### 📦 Requirements <br>
+### Requirements <br>
 	•	Python 3.7+
 	•	See requirements.txt for dependencies
 	•	External tools (optional but recommended)
 
 ---
 
-### ⚠️ Disclaimer
+### Disclaimer
 
 > **This tool is for educational and authorized security testing only.**
 >
@@ -131,7 +131,7 @@ person_reports/<date>_<id>/person_report.html
 
 ---
 
-### 📜 License
+### License
 
 MIT License
 
