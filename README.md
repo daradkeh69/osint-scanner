@@ -140,4 +140,3 @@ MIT License
 ### Socials
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/daradkehh)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:adampentest@outlook.com)&nbsp;&nbsp;&nbsp;
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/char0n0)
