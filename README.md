@@ -134,8 +134,3 @@ person_reports/<date>_<id>/person_report.html
 ### License
 
 MIT License
-
----
-
-### Socials
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/daradkehh)&nbsp;&nbsp;&nbsp;
